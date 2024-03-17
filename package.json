@@ -2,7 +2,7 @@
   "name": "youtube-subs",
   "type": "module",
   "engines": {
-    "pnpm": "8.15.1"
+    "pnpm": "8.15.5"
   },
   "scripts": {
     "build": "node scripts/build.js",
