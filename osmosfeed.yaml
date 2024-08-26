@@ -397,4 +397,4 @@ siteTitle: "YouTube"
 timezone: Asia/Shanghai
 
 # `cacheMaxDays` 缓存中保留 feed 内容的最大天数。一个非常大的值可能会增加网站的初始加载时间。（可选）
-cacheMaxDays: 5500
+cacheMaxDays: 36500
