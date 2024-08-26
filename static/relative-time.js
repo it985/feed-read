@@ -8,16 +8,15 @@ const UNITS = {
 };
 
 const now = new Date();
-
 const relativeTimeFormat = new Intl.RelativeTimeFormat(navigator.languages, { numeric: "auto" });
 
 function getRelativeTime(when, now) {
-  const elapsed = when - now;
-
-  // "Math.abs" accounts for both "past" & "future" scenarios
-  for (var u in UNITS)
-    if (Math.abs(elapsed) > UNITS[u] || u == "second")
-      return relativeTimeFormat.format(Math.round(elapsed / UNITS[u]), u);
+  const elapsed = now - when;
+  for (const unit in UNITS) {
+    if (Math.abs(elapsed) > UNITS[unit] || unit === "second") {
+      return relativeTimeFormat.format(Math.round(elapsed / UNITS[unit]), unit);
+    }
+  }
 }
 
 document.querySelectorAll(".js-relative-time").forEach((timeElement) => {

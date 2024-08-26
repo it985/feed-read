@@ -4,23 +4,14 @@ document.addEventListener("click", (e) => {
   if (isForward || isBackward) {
     const scrollAssembly = e.target.closest(".js-horizontal-scroll");
     const list = scrollAssembly.querySelector(".js-horizontal-scroll__list");
-
-    if (isForward) {
-      list.scroll({
-        left: list.scrollLeft + list.offsetWidth,
-        behavior: "smooth",
-      });
-    } else {
-      list.scroll({
-        left: list.scrollLeft - list.offsetWidth,
-        behavior: "smooth",
-      });
-    }
+    list.scrollBy({
+      left: isForward ? list.offsetWidth : -list.offsetWidth,
+      behavior: "smooth",
+    });
   }
 });
 
 const lists = document.querySelectorAll(".js-horizontal-scroll__list");
-
 lists.forEach((list) => {
   const observer = new IntersectionObserver(
     (entries) => {
@@ -39,11 +30,10 @@ lists.forEach((list) => {
     {
       root: list,
       rootMargin: "0px",
-      threshold: 0.98, // using 1 causes the false positive occasionally
+      threshold: 0.98,
     }
   );
-
   const items = [...list.querySelectorAll(".js-horizontal-scroll__item")];
-  const terminalItems = [...new Set([items[0], items[items.length - 1]])];
+  const terminalItems = [items[0], items[items.length - 1]];
   terminalItems.forEach((i) => observer.observe(i));
 });
