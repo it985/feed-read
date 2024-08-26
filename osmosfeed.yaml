@@ -80,7 +80,7 @@ sources:
 - href: https://www.youtube.com/feeds/videos.xml?channel_id=UCdld7SHk9IyYSkNrHA9B6Dw
 - href: https://www.youtube.com/feeds/videos.xml?channel_id=UCS5qmPFj36fK7fML6gYcZSQ
 - href: https://www.youtube.com/feeds/videos.xml?channel_id=UCp5Hfz5DiCueMcUzMvqU2eQ
-- href: https://www.youtube.com/feeds/videos.xml?channel_id=xxxxxxxxx
+- href: https://www.youtube.com/feeds/videos.xml?channel_id=UCDW9XFv3T8VkBskvgEIiW2A
 - href: https://www.youtube.com/feeds/videos.xml?channel_id=UCDvazhEPkMkIsDJGZsGw1zQ
 - href: https://www.youtube.com/feeds/videos.xml?channel_id=UCOON7HbktJy5i19fyKTOEXw
 - href: https://www.youtube.com/feeds/videos.xml?channel_id=UCzQ3t4sWb66begG8ZD11pdQ
@@ -189,7 +189,6 @@ sources:
 - href: https://www.youtube.com/feeds/videos.xml?channel_id=UCh-ui5GFGcyxV8Sn-Tj557w
 - href: https://www.youtube.com/feeds/videos.xml?channel_id=UCt2rixQd2RIph9Ya2Ovij4g
 - href: https://www.youtube.com/feeds/videos.xml?channel_id=UCU3kq6pv8zS2K_xJ-j2M-KQ
-- href: https://www.youtube.com/feeds/videos.xml?channel_id=xxxxxxxxxx
 - href: https://www.youtube.com/feeds/videos.xml?channel_id=UCCb6hI74fwNNMWV0cEPbXlw
 - href: https://www.youtube.com/feeds/videos.xml?channel_id=UC3WUnrStsLqG13pTnHECzqQ
 - href: https://www.youtube.com/feeds/videos.xml?channel_id=UC0zbE3G_hqpsEwHz4ig_Tww
@@ -387,6 +386,10 @@ sources:
 - href: https://www.youtube.com/feeds/videos.xml?channel_id=UCSJ01G-E87y5ojdQKCXq7zg
 - href: https://www.youtube.com/feeds/videos.xml?channel_id=UCLYNEaV9stLOz2Wz04rqwhA
 - href: https://www.youtube.com/feeds/videos.xml?channel_id=UCvQxfg4eOqzrpGb3awGM4Rg
+- href: https://www.youtube.com/feeds/videos.xml?channel_id=UCU0PgOXf0lxzVxN2TLzMJkw
+- href: https://www.youtube.com/feeds/videos.xml?channel_id=UCQG8tNnV4hKetLhMb4MopHQ
+- href: https://www.youtube.com/feeds/videos.xml?channel_id=UC5s_kUbxX3P1q6lmDgygD-w
+- href: https://www.youtube.com/feeds/videos.xml?channel_id=UCEz-AFAg3EUKsxraad1puQA
 
 # `siteTitle`: 浏览器标签和机器可读的 feed 输出中使用的标题。（可选）
 siteTitle: "YouTube"
