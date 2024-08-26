@@ -1,3 +1,6 @@
+# `cacheUrl`: 包含之前构建输出的 URL。（必需）
+cacheUrl: https://it985.github.io/feed-read/cache.json
+# `sources`: RSS 订阅源的数组。（必需）
 sources:
 - href: https://www.youtube.com/feeds/videos.xml?channel_id=UCTfgLRLltCx5ThH-3K8iAWw
 - href: https://www.youtube.com/feeds/videos.xml?channel_id=UCsBNDJamrYl4cIK4onhscPQ
@@ -384,3 +387,14 @@ sources:
 - href: https://www.youtube.com/feeds/videos.xml?channel_id=UCSJ01G-E87y5ojdQKCXq7zg
 - href: https://www.youtube.com/feeds/videos.xml?channel_id=UCLYNEaV9stLOz2Wz04rqwhA
 - href: https://www.youtube.com/feeds/videos.xml?channel_id=UCvQxfg4eOqzrpGb3awGM4Rg
+
+# `siteTitle`: 浏览器标签和机器可读的 feed 输出中使用的标题。（可选）
+siteTitle: "YouTube"
+
+# `timezone`: 指定您的本地时区，以便服务器按星期几分组内容
+# 从以下页面的 "TZ 数据库名称" 列中找到您的时区名称：https://en.wikipedia.org/wiki/List_of_tz_database_time_zones#List
+# 示例：America/Los_Angeles，America/New_York，Asia/Shanghai，Asia/Tokyo
+timezone: Asia/Shanghai
+
+# `cacheMaxDays` 缓存中保留 feed 内容的最大天数。一个非常大的值可能会增加网站的初始加载时间。（可选）
+cacheMaxDays: 5500
