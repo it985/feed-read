@@ -1,27 +1,26 @@
 const UNITS = {
-  year: 365 * 24 * 60 * 60 * 1000,
-  month: (365 * 24 * 60 * 60 * 1000) / 12,
+  year: 24 * 60 * 60 * 1000 * 365,
+  month: (24 * 60 * 60 * 1000 * 365) / 12,
   day: 24 * 60 * 60 * 1000,
   hour: 60 * 60 * 1000,
   minute: 60 * 1000,
   second: 1000,
 };
 
-const now = Date.now();
-const relativeTimeFormat = new Intl.RelativeTimeFormat(navigator.languages, { numeric: 'auto' });
+const now = new Date();
 
-function getRelativeTime(when) {
+const relativeTimeFormat = new Intl.RelativeTimeFormat(navigator.languages, { numeric: "auto" });
+
+function getRelativeTime(when, now) {
   const elapsed = when - now;
 
-  // Loop through the units to find the largest applicable unit
-  for (const [unit, value] of Object.entries(UNITS)) {
-    if (Math.abs(elapsed) >= value || unit === 'second') {
-      return relativeTimeFormat.format(Math.round(elapsed / value), unit);
-    }
-  }
+  // "Math.abs" accounts for both "past" & "future" scenarios
+  for (var u in UNITS)
+    if (Math.abs(elapsed) > UNITS[u] || u == "second")
+      return relativeTimeFormat.format(Math.round(elapsed / UNITS[u]), u);
 }
 
-document.querySelectorAll('.js-relative-time').forEach((timeElement) => {
-  const publishDate = new Date(timeElement.getAttribute('datetime')).getTime();
-  timeElement.textContent = getRelativeTime(publishDate);
+document.querySelectorAll(".js-relative-time").forEach((timeElement) => {
+  const publishDate = new Date(timeElement.getAttribute("datetime"));
+  timeElement.textContent = getRelativeTime(publishDate, now);
 });
