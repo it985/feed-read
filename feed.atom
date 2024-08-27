@@ -2,10 +2,46 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://it985.github.io/feed-read/index.html</id>
     <title>YouTube</title>
-    <updated>2024-08-27T02:37:14.854Z</updated>
+    <updated>2024-08-27T03:18:12.551Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://it985.github.io/feed-read/index.html"/>
     <link rel="self" href="https://it985.github.io/feed-read/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[《我爸的學生都是大佬》第1~100集【高清完結合集】丨父親老年癡呆後，總說起曾經的學生，說著想和他們見壹面！沒想到他竟真是第壹名師，他的學生都是大佬！回憶往昔，我才發現我最好的老師也是父親！#嘟嘟剧场]]></title>
+        <id>https://www.youtube.com/watch?v=y2qvM_LRSH8</id>
+        <link href="https://www.youtube.com/watch?v=y2qvM_LRSH8"/>
+        <updated>2024-08-27T03:03:00.000Z</updated>
+        <author>
+            <name>嘟嘟剧场</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【GHIBLI PLAYLIST】心が落ち着く、癒しのジブリピアノ曲メドレー 🎁 美しい4時間のスタジオジブリ音楽]]></title>
+        <id>https://www.youtube.com/watch?v=jGcx5ZUFvIk</id>
+        <link href="https://www.youtube.com/watch?v=jGcx5ZUFvIk"/>
+        <updated>2024-08-27T02:40:16.000Z</updated>
+        <author>
+            <name>BGM Ghibli Studio</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[最后的牵手]]></title>
+        <id>https://www.youtube.com/watch?v=KVOnbreVKsQ</id>
+        <link href="https://www.youtube.com/watch?v=KVOnbreVKsQ"/>
+        <updated>2024-08-27T02:38:21.000Z</updated>
+        <author>
+            <name>曹操大哥</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[슬로우 '삐끼삐끼' 박성은(Park Sung-eun)치어리더]]></title>
+        <id>https://www.youtube.com/watch?v=3tppfJdTrfQ</id>
+        <link href="https://www.youtube.com/watch?v=3tppfJdTrfQ"/>
+        <updated>2024-08-27T02:31:11.000Z</updated>
+        <author>
+            <name>내맘찍영</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2배 빠른 '삐끼삐끼' 이주은(Lee Ju-Eun)치어리더]]></title>
         <id>https://www.youtube.com/watch?v=NQKB_qGfm2g</id>
