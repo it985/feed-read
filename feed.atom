@@ -2,10 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://it985.github.io/feed-read/index.html</id>
     <title>YouTube</title>
-    <updated>2024-08-27T20:18:14.773Z</updated>
+    <updated>2024-08-27T21:15:04.557Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://it985.github.io/feed-read/index.html"/>
     <link rel="self" href="https://it985.github.io/feed-read/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Harutya 春茶 🍃🌿ベストカバーソング集 2024 - ベスト日本の歌 2024🍃🌿]]></title>
+        <id>https://www.youtube.com/watch?v=GjXU-lNiJyI</id>
+        <link href="https://www.youtube.com/watch?v=GjXU-lNiJyI"/>
+        <updated>2024-08-27T21:00:17.000Z</updated>
+        <author>
+            <name>1 Hour Japan Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ASMR All Kinds of Tapping (fast, slow, rhythmic, sticky) 👐]]></title>
+        <id>https://www.youtube.com/watch?v=xZwJBQRrW-I</id>
+        <link href="https://www.youtube.com/watch?v=xZwJBQRrW-I"/>
+        <updated>2024-08-27T20:40:55.000Z</updated>
+        <author>
+            <name>fastASMR</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ASMR ULTIMATE MEN'S SHAVE CUT MEASURE MASSAGE ROLEPLAY! Oil Massage Scalp/Face, Pampering You 1 Hour]]></title>
+        <id>https://www.youtube.com/watch?v=RRVXYdUXxps</id>
+        <link href="https://www.youtube.com/watch?v=RRVXYdUXxps"/>
+        <updated>2024-08-27T20:12:25.000Z</updated>
+        <author>
+            <name>Madi ASMR</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[ASMR] Doctor Treats Your Sunburn]]></title>
         <id>https://www.youtube.com/watch?v=K-xcXO0hJfg</id>
