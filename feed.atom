@@ -2,10 +2,46 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://it985.github.io/feed-read/index.html</id>
     <title>YouTube</title>
-    <updated>2024-08-28T18:21:57.532Z</updated>
+    <updated>2024-08-28T19:15:22.329Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://it985.github.io/feed-read/index.html"/>
     <link rel="self" href="https://it985.github.io/feed-read/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ASMR Hair Play For Sweet Dreams 🎀🎧🧸 (brushing, combing, clipping)]]></title>
+        <id>https://www.youtube.com/watch?v=601JuJ8Lvp8</id>
+        <link href="https://www.youtube.com/watch?v=601JuJ8Lvp8"/>
+        <updated>2024-08-28T19:00:06.000Z</updated>
+        <author>
+            <name>Oceans ASMR</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[240825 홍콩 콘서트 라디오 #우기 #여자아이들 #yuqi #gidle]]></title>
+        <id>https://www.youtube.com/watch?v=3GE-U5AONRk</id>
+        <link href="https://www.youtube.com/watch?v=3GE-U5AONRk"/>
+        <updated>2024-08-28T18:59:29.000Z</updated>
+        <author>
+            <name>Evelyn雯wen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[АСМР / ASMR СТРИМ ОБЩЕНИЕ и МУРАШКИ 😍😴]]></title>
+        <id>https://www.youtube.com/watch?v=xqgrrRawTGo</id>
+        <link href="https://www.youtube.com/watch?v=xqgrrRawTGo"/>
+        <updated>2024-08-28T18:59:19.000Z</updated>
+        <author>
+            <name>HeyHelen ASMR</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[挨拶🫡]]></title>
+        <id>https://www.youtube.com/watch?v=83J-jWvt_hs</id>
+        <link href="https://www.youtube.com/watch?v=83J-jWvt_hs"/>
+        <updated>2024-08-28T18:42:59.000Z</updated>
+        <author>
+            <name>美好秋人</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[240825 '코스프레 무대' 영덕님 (insta @youngduck_01) 직캠 By.JJaGa #일러스타페스 #setec]]></title>
         <id>https://www.youtube.com/watch?v=4CxIuq3uSfk</id>
