@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://it985.github.io/feed-read/index.html</id>
     <title>YouTube</title>
-    <updated>2024-08-29T21:16:27.479Z</updated>
+    <updated>2024-08-29T22:15:37.065Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://it985.github.io/feed-read/index.html"/>
     <link rel="self" href="https://it985.github.io/feed-read/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[音楽 ランキング 最新 2024 🎶🍁有名曲jpop メドレー2024 🎧📚 邦楽 ランキング 最新 2024 日本の歌 人気 2024🍀🍒 J POP 最新曲ランキング 邦楽 2024]]></title>
+        <id>https://www.youtube.com/watch?v=rGBcA1ET57E</id>
+        <link href="https://www.youtube.com/watch?v=rGBcA1ET57E"/>
+        <updated>2024-08-29T22:01:43.000Z</updated>
+        <author>
+            <name>Top Jpop</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[고양이귀 뚜뚜뚜뚜 조예린 치어리더 Jo Yerin Cheerleader]]></title>
+        <id>https://www.youtube.com/watch?v=tnYsouGLtUo</id>
+        <link href="https://www.youtube.com/watch?v=tnYsouGLtUo"/>
+        <updated>2024-08-29T22:01:38.000Z</updated>
+        <author>
+            <name>CheerS &amp; Sports</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Harutya 春茶 2024 年のヒット曲集 - ベストカバー曲と日本の名曲 🍃🌿]]></title>
         <id>https://www.youtube.com/watch?v=y7nJR4bk3e0</id>
