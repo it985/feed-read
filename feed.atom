@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://it985.github.io/feed-read/index.html</id>
     <title>YouTube</title>
-    <updated>2024-08-30T17:15:32.813Z</updated>
+    <updated>2024-08-30T18:22:30.813Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://it985.github.io/feed-read/index.html"/>
     <link rel="self" href="https://it985.github.io/feed-read/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[『三日月が綺麗な夜エモい𝟖𝟎’𝐬レトロなLOFI音楽をチルな街で聴く』Playlist Chill mix BGM [ To Work / To Study ]]]></title>
+        <id>https://www.youtube.com/watch?v=LaGsB6S1qmM</id>
+        <link href="https://www.youtube.com/watch?v=LaGsB6S1qmM"/>
+        <updated>2024-08-30T17:29:15.000Z</updated>
+        <author>
+            <name>kesuike-𝟖𝟎'𝐬 𝐋𝐨𝐟𝐢 𝐂𝐢𝐭𝐲</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[아~ 크다! 취미 부자 현민]]></title>
         <id>https://www.youtube.com/watch?v=zgTLNahXW5c</id>
