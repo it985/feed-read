@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://it985.github.io/feed-read/index.html</id>
     <title>YouTube</title>
-    <updated>2024-08-31T19:12:25.044Z</updated>
+    <updated>2024-08-31T20:18:08.886Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://it985.github.io/feed-read/index.html"/>
     <link rel="self" href="https://it985.github.io/feed-read/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[240831 'Suppin who are you _ ガガピエロ' 메모리아(Memoria) 전체 직캠 By.JJaGa MIRAI STAGE vol.2 ~마피아가 미래다~]]></title>
+        <id>https://www.youtube.com/watch?v=BH_gK-TUiog</id>
+        <link href="https://www.youtube.com/watch?v=BH_gK-TUiog"/>
+        <updated>2024-08-31T19:53:47.000Z</updated>
+        <author>
+            <name>짜가 JJa Ga</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[240831 '상황극' 메모리아(Memoria) 전체 직캠 By.JJaGa MIRAI STAGE vol.2 ~마피아가 미래다~ #Flex_Lounge]]></title>
+        <id>https://www.youtube.com/watch?v=gLkWO9eTV2A</id>
+        <link href="https://www.youtube.com/watch?v=gLkWO9eTV2A"/>
+        <updated>2024-08-31T19:30:29.000Z</updated>
+        <author>
+            <name>짜가 JJa Ga</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[240831 '소개, 21일 겐바 소개' 메모리아Memoria 전체 직캠 By JJaGa MIRAI STAGE vol 2 ~마피아가 미래다~ #Flex Lounge]]></title>
         <id>https://www.youtube.com/watch?v=8C-Yybm5rjI</id>
