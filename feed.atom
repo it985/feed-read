@@ -2,10 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://it985.github.io/feed-read/index.html</id>
     <title>YouTube</title>
-    <updated>2024-09-01T04:21:31.304Z</updated>
+    <updated>2024-09-01T05:17:20.700Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://it985.github.io/feed-read/index.html"/>
     <link rel="self" href="https://it985.github.io/feed-read/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[The Best ASMR Shorts]]></title>
+        <id>https://www.youtube.com/watch?v=Lqa5wDgfLbg</id>
+        <link href="https://www.youtube.com/watch?v=Lqa5wDgfLbg"/>
+        <updated>2024-09-01T05:01:05.000Z</updated>
+        <author>
+            <name>Vito ASMR</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Harutya 春茶 🍃🌿ベストカバーソング集 2024 - ベスト日本の歌 2024🍃🌿]]></title>
+        <id>https://www.youtube.com/watch?v=T5_ZipPgvsk</id>
+        <link href="https://www.youtube.com/watch?v=T5_ZipPgvsk"/>
+        <updated>2024-09-01T05:00:26.000Z</updated>
+        <author>
+            <name>1 Hour Japan Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[高中組朗讀示範 - 朋黨論     #朗讀 #聲音 #語文競賽 #示範]]></title>
+        <id>https://www.youtube.com/watch?v=GJ29WDoQfpQ</id>
+        <link href="https://www.youtube.com/watch?v=GJ29WDoQfpQ"/>
+        <updated>2024-09-01T04:38:41.000Z</updated>
+        <author>
+            <name>依1</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[高中組朗讀示範 - 鳴機夜課圖記     #語文競賽 #朗讀 #示範 #聲音]]></title>
         <id>https://www.youtube.com/watch?v=RfD9awd_5UU</id>
@@ -13,6 +40,15 @@
         <updated>2024-09-01T04:20:41.000Z</updated>
         <author>
             <name>依1</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[狀態絕好! 肉回來的林襄把彈性發揮得淋漓盡致!]]></title>
+        <id>https://www.youtube.com/watch?v=UAQcipfXjas</id>
+        <link href="https://www.youtube.com/watch?v=UAQcipfXjas"/>
+        <updated>2024-09-01T04:18:17.000Z</updated>
+        <author>
+            <name>Angel Wings</name>
         </author>
     </entry>
     <entry>
@@ -409,6 +445,15 @@
         <updated>2024-08-31T22:30:03.000Z</updated>
         <author>
             <name>1 Billion view</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[SUB] EP.34-1 ZEROBASEONE | 제로즈 사랑하는데~~🩵 냅다 고백하는 아홉 남자의 매력에 '빠지'기 좋은 날| 돌박이일 제로베이스원 500일의 썸머 1탄 [4K]]]></title>
+        <id>https://www.youtube.com/watch?v=0cgEn5ZoM-E</id>
+        <link href="https://www.youtube.com/watch?v=0cgEn5ZoM-E"/>
+        <updated>2024-08-31T22:26:38.000Z</updated>
+        <author>
+            <name>KBS Kpop</name>
         </author>
     </entry>
     <entry>
