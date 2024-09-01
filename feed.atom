@@ -2,10 +2,46 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://it985.github.io/feed-read/index.html</id>
     <title>YouTube</title>
-    <updated>2024-09-01T19:13:08.685Z</updated>
+    <updated>2024-09-01T20:17:47.174Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://it985.github.io/feed-read/index.html"/>
     <link rel="self" href="https://it985.github.io/feed-read/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[240901 '박승욱 안타안타~' 정예진 치어리더]]></title>
+        <id>https://www.youtube.com/watch?v=esvch9HGwk4</id>
+        <link href="https://www.youtube.com/watch?v=esvch9HGwk4"/>
+        <updated>2024-09-01T20:00:12.000Z</updated>
+        <author>
+            <name>짜가 JJa Ga</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ASMR 💚 Addictive & Clicky Mouth Sounds & Trigger Words (Reverb)]]></title>
+        <id>https://www.youtube.com/watch?v=6jZbqdBzK3Q</id>
+        <link href="https://www.youtube.com/watch?v=6jZbqdBzK3Q"/>
+        <updated>2024-09-01T19:48:57.000Z</updated>
+        <author>
+            <name>SkepticalPickle ASMR</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Candle]]></title>
+        <id>https://www.youtube.com/watch?v=Z8gf2zqL7ro</id>
+        <link href="https://www.youtube.com/watch?v=Z8gf2zqL7ro"/>
+        <updated>2024-09-01T19:17:55.000Z</updated>
+        <author>
+            <name>Iris K</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[240901 '롯데 롯데 롯데~' 정예진 치어리더]]></title>
+        <id>https://www.youtube.com/watch?v=MPjY3exfdgE</id>
+        <link href="https://www.youtube.com/watch?v=MPjY3exfdgE"/>
+        <updated>2024-09-01T19:00:10.000Z</updated>
+        <author>
+            <name>짜가 JJa Ga</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[10초만에 끝나버린 편의점 알바썰]]></title>
         <id>https://www.youtube.com/watch?v=FbaZ55qb_d0</id>
