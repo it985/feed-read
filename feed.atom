@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://it985.github.io/feed-read/index.html</id>
     <title>YouTube</title>
-    <updated>2024-09-04T19:13:21.095Z</updated>
+    <updated>2024-09-04T20:17:58.817Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://it985.github.io/feed-read/index.html"/>
     <link rel="self" href="https://it985.github.io/feed-read/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ASMR Microphone Scratching You to BRAINGASM 🧠💤 Ear to Ear Comfort 😌 4K | 60fps]]></title>
+        <id>https://www.youtube.com/watch?v=kedFwijXWUg</id>
+        <link href="https://www.youtube.com/watch?v=kedFwijXWUg"/>
+        <updated>2024-09-04T19:21:04.000Z</updated>
+        <author>
+            <name>Ginger ASMR</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[АСМР / ASMR СТРИМ ОБЩЕНИЕ и МУРАШКИ 😍😴]]></title>
         <id>https://www.youtube.com/watch?v=X5Hmp5FyV38</id>
