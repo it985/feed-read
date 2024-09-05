@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://it985.github.io/feed-read/index.html</id>
     <title>YouTube</title>
-    <updated>2024-09-05T21:15:46.930Z</updated>
+    <updated>2024-09-05T22:15:54.106Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://it985.github.io/feed-read/index.html"/>
     <link rel="self" href="https://it985.github.io/feed-read/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[아웃이되면 외치는 따봉송 아웃송 조예린 치어리더 Jo Yerin Cheerleader]]></title>
+        <id>https://www.youtube.com/watch?v=9uKz4wcztts</id>
+        <link href="https://www.youtube.com/watch?v=9uKz4wcztts"/>
+        <updated>2024-09-05T22:00:09.000Z</updated>
+        <author>
+            <name>CheerS &amp; Sports</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Harutya 春茶 🍃🌿ベストカバーソング集 2024 - ベスト日本の歌 2024🍃🌿]]></title>
         <id>https://www.youtube.com/watch?v=r4tpovLUGr0</id>
