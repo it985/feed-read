@@ -2,10 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://it985.github.io/feed-read/index.html</id>
     <title>YouTube</title>
-    <updated>2024-09-05T19:13:40.187Z</updated>
+    <updated>2024-09-05T20:17:58.626Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://it985.github.io/feed-read/index.html"/>
     <link rel="self" href="https://it985.github.io/feed-read/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Fast & Aggressive ASMR with Sensitive Microphone 😴]]></title>
+        <id>https://www.youtube.com/watch?v=t072dU6gHtY</id>
+        <link href="https://www.youtube.com/watch?v=t072dU6gHtY"/>
+        <updated>2024-09-05T20:00:17.000Z</updated>
+        <author>
+            <name>fastASMR</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pure Scottish Accent Whispers ~ (the rolling R sound) 🤯 ASMR]]></title>
+        <id>https://www.youtube.com/watch?v=B0YKALLITV4</id>
+        <link href="https://www.youtube.com/watch?v=B0YKALLITV4"/>
+        <updated>2024-09-05T19:02:47.000Z</updated>
+        <author>
+            <name>ASMR Shortbread</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ALL ABOARD THE TINGLE TRAIN!🚂]]></title>
+        <id>https://www.youtube.com/watch?v=GCdIPy-kLv0</id>
+        <link href="https://www.youtube.com/watch?v=GCdIPy-kLv0"/>
+        <updated>2024-09-05T19:00:08.000Z</updated>
+        <author>
+            <name>Diddly ASMR</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[#여자아이들 #우기]]></title>
         <id>https://www.youtube.com/watch?v=vViwGoaRhhU</id>
