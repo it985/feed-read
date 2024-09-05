@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://it985.github.io/feed-read/index.html</id>
     <title>YouTube</title>
-    <updated>2024-09-05T20:17:58.626Z</updated>
+    <updated>2024-09-05T21:15:46.930Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://it985.github.io/feed-read/index.html"/>
     <link rel="self" href="https://it985.github.io/feed-read/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Harutya 春茶 🍃🌿ベストカバーソング集 2024 - ベスト日本の歌 2024🍃🌿]]></title>
+        <id>https://www.youtube.com/watch?v=r4tpovLUGr0</id>
+        <link href="https://www.youtube.com/watch?v=r4tpovLUGr0"/>
+        <updated>2024-09-05T21:00:42.000Z</updated>
+        <author>
+            <name>1 Hour Japan Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ASMR Measuring You Fast & Aggressive 📐Head to Toe Chaotic Roleplay⚡️]]></title>
+        <id>https://www.youtube.com/watch?v=Tnz5pQMVJt4</id>
+        <link href="https://www.youtube.com/watch?v=Tnz5pQMVJt4"/>
+        <updated>2024-09-05T21:00:15.000Z</updated>
+        <author>
+            <name>Celaine's ASMR</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Fast & Aggressive ASMR with Sensitive Microphone 😴]]></title>
         <id>https://www.youtube.com/watch?v=t072dU6gHtY</id>
