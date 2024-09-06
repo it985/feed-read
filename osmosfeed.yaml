@@ -404,6 +404,7 @@ sources:
 - href: https://www.youtube.com/feeds/videos.xml?channel_id=UCcnsf1dzzmkHg6SDl63L6eg
 - href: https://www.youtube.com/feeds/videos.xml?channel_id=UCTeZAwIRIbFgwJ8EacdO4dg
 - href: https://www.youtube.com/feeds/videos.xml?channel_id=UCxjXU89x6owat9dA8Z-bzdw
+- href: https://www.youtube.com/feeds/videos.xml?channel_id=UCDvazhEPkMkIsDJGZsGw1zQ
 
 # `siteTitle`: 浏览器标签和机器可读的 feed 输出中使用的标题。（可选）
 siteTitle: "YouTube"
