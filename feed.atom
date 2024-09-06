@@ -2,10 +2,460 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://it985.github.io/feed-read/index.html</id>
     <title>YouTube</title>
-    <updated>2024-09-06T09:18:10.876Z</updated>
+    <updated>2024-09-06T10:17:55.901Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://it985.github.io/feed-read/index.html"/>
     <link rel="self" href="https://it985.github.io/feed-read/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[[얼빡직캠 4K] 백현 'Pineapple Slice'(BAEKHYUN Facecam) @뮤직뱅크(Music Bank) 240906]]></title>
+        <id>https://www.youtube.com/watch?v=iC8o46tpaLY</id>
+        <link href="https://www.youtube.com/watch?v=iC8o46tpaLY"/>
+        <updated>2024-09-06T10:15:04.000Z</updated>
+        <author>
+            <name>KBS Kpop</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[얼빡직캠 4K] 쯔위 'Run Away'(TZUYU Facecam) @뮤직뱅크(Music Bank) 240906]]></title>
+        <id>https://www.youtube.com/watch?v=7RY2Sm8UihU</id>
+        <link href="https://www.youtube.com/watch?v=7RY2Sm8UihU"/>
+        <updated>2024-09-06T10:15:00.000Z</updated>
+        <author>
+            <name>KBS Kpop</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[아이들 감성 모르면 나가라…]]></title>
+        <id>https://www.youtube.com/watch?v=stG4ZVKfRjI</id>
+        <link href="https://www.youtube.com/watch?v=stG4ZVKfRjI"/>
+        <updated>2024-09-06T10:14:06.000Z</updated>
+        <author>
+            <name>(G)I-DLE (여자)아이들 (Official YouTube Channel)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pineapple Slice - 백현 [뮤직뱅크/Music Bank] | KBS 240906 방송]]></title>
+        <id>https://www.youtube.com/watch?v=szXH0yc_uPE</id>
+        <link href="https://www.youtube.com/watch?v=szXH0yc_uPE"/>
+        <updated>2024-09-06T10:13:58.000Z</updated>
+        <author>
+            <name>KBS Kpop</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[我给你画饼]]></title>
+        <id>https://www.youtube.com/watch?v=BuyGcAQbYu8</id>
+        <link href="https://www.youtube.com/watch?v=BuyGcAQbYu8"/>
+        <updated>2024-09-06T10:13:49.000Z</updated>
+        <author>
+            <name>曹操大哥</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[윤하 - 태양물고기 [뮤직뱅크/Music Bank] | KBS 240906 방송]]></title>
+        <id>https://www.youtube.com/watch?v=UkyQbuP1Cag</id>
+        <link href="https://www.youtube.com/watch?v=UkyQbuP1Cag"/>
+        <updated>2024-09-06T10:13:41.000Z</updated>
+        <author>
+            <name>KBS Kpop</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Classified - 오마이걸 [뮤직뱅크/Music Bank] | KBS 240906 방송]]></title>
+        <id>https://www.youtube.com/watch?v=ULA6rS-Wa4I</id>
+        <link href="https://www.youtube.com/watch?v=ULA6rS-Wa4I"/>
+        <updated>2024-09-06T10:11:24.000Z</updated>
+        <author>
+            <name>KBS Kpop</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[녹아내려요 - DAY6 [뮤직뱅크/Music Bank] | KBS 240906 방송]]></title>
+        <id>https://www.youtube.com/watch?v=9aPaKV-e11s</id>
+        <link href="https://www.youtube.com/watch?v=9aPaKV-e11s"/>
+        <updated>2024-09-06T10:09:09.000Z</updated>
+        <author>
+            <name>KBS Kpop</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[顾客就是我们的上帝]]></title>
+        <id>https://www.youtube.com/watch?v=PtlTECAEZRs</id>
+        <link href="https://www.youtube.com/watch?v=PtlTECAEZRs"/>
+        <updated>2024-09-06T10:08:43.000Z</updated>
+        <author>
+            <name>曹操大哥</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Wavy - 예린 [뮤직뱅크/Music Bank] | KBS 240906 방송]]></title>
+        <id>https://www.youtube.com/watch?v=36_3BuOl2mY</id>
+        <link href="https://www.youtube.com/watch?v=36_3BuOl2mY"/>
+        <updated>2024-09-06T10:07:56.000Z</updated>
+        <author>
+            <name>KBS Kpop</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[到暴风雨前的宁静]]></title>
+        <id>https://www.youtube.com/watch?v=LTNXISBTwAY</id>
+        <link href="https://www.youtube.com/watch?v=LTNXISBTwAY"/>
+        <updated>2024-09-06T10:06:15.000Z</updated>
+        <author>
+            <name>曹操大哥</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[각선미 1티어 KT 치어라인업 클래스ㄷㄷ 김한슬 치어리더 Kim Hanseul Cheerleader]]></title>
+        <id>https://www.youtube.com/watch?v=YcsvGU0Ref0</id>
+        <link href="https://www.youtube.com/watch?v=YcsvGU0Ref0"/>
+        <updated>2024-09-06T10:06:00.000Z</updated>
+        <author>
+            <name>CheerS &amp; Sports</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Run Away - 쯔위 [뮤직뱅크/Music Bank] | KBS 240906 방송]]></title>
+        <id>https://www.youtube.com/watch?v=Vwkdr9qfnRo</id>
+        <link href="https://www.youtube.com/watch?v=Vwkdr9qfnRo"/>
+        <updated>2024-09-06T10:04:11.000Z</updated>
+        <author>
+            <name>KBS Kpop</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OFF ROAD - 원위 [뮤직뱅크/Music Bank] | KBS 240906 방송]]></title>
+        <id>https://www.youtube.com/watch?v=RbPDpy0wvx4</id>
+        <link href="https://www.youtube.com/watch?v=RbPDpy0wvx4"/>
+        <updated>2024-09-06T10:02:15.000Z</updated>
+        <author>
+            <name>KBS Kpop</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[一封简短的情书]]></title>
+        <id>https://www.youtube.com/watch?v=W0mbZz-cUuE</id>
+        <link href="https://www.youtube.com/watch?v=W0mbZz-cUuE"/>
+        <updated>2024-09-06T10:01:55.000Z</updated>
+        <author>
+            <name>曹操大哥</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【FULL】妻子收拾行李意外发现丈夫出轨，妻子心碎提离婚，丈夫慌了！]]></title>
+        <id>https://www.youtube.com/watch?v=qo09CbbNeeM</id>
+        <link href="https://www.youtube.com/watch?v=qo09CbbNeeM"/>
+        <updated>2024-09-06T10:01:02.000Z</updated>
+        <author>
+            <name>小千甜剧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Glamour Moments at a Stunning Resort Compilation, Habin, Pocket Girls, 하빈, 포켓걸스]]></title>
+        <id>https://www.youtube.com/watch?v=swhcedI0NFk</id>
+        <link href="https://www.youtube.com/watch?v=swhcedI0NFk"/>
+        <updated>2024-09-06T10:01:01.000Z</updated>
+        <author>
+            <name>POCKETGIRLS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ATARASHII GAKKO! (새로운 학교의 리더즈) - Change (4K)｜HUP!]]></title>
+        <id>https://www.youtube.com/watch?v=x8re8GKaTS0</id>
+        <link href="https://www.youtube.com/watch?v=x8re8GKaTS0"/>
+        <updated>2024-09-06T10:00:59.000Z</updated>
+        <author>
+            <name>HUP!</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pineapple Slice - BAEKHYUN #PineappleSlice #BAEKHYUN #백현 #Shorts #MusicBank | KBS WORLD TV]]></title>
+        <id>https://www.youtube.com/watch?v=4Eo6X4xfWB8</id>
+        <link href="https://www.youtube.com/watch?v=4Eo6X4xfWB8"/>
+        <updated>2024-09-06T10:00:58.000Z</updated>
+        <author>
+            <name>KBS WORLD TV</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[5歲小萌娃被養母一腳踢出家門，殊不知她是豪門遺失的明珠，當晚3個大佬舅舅從天而降接她回豪門，成了團寵小公主，3個舅舅把她捧在手心上寵愛，幫她狠狠教訓養母一家！#短劇 #romance]]></title>
+        <id>https://www.youtube.com/watch?v=dWG1yj1Efmw</id>
+        <link href="https://www.youtube.com/watch?v=dWG1yj1Efmw"/>
+        <updated>2024-09-06T10:00:43.000Z</updated>
+        <author>
+            <name>花火劇場</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【Full Movie】灰姑娘突然抱住霸道總裁，撩得他心頭一顫，直接起了生理反應！#chinesedrama]]></title>
+        <id>https://www.youtube.com/watch?v=dFsNijLXlJo</id>
+        <link href="https://www.youtube.com/watch?v=dFsNijLXlJo"/>
+        <updated>2024-09-06T10:00:41.000Z</updated>
+        <author>
+            <name>剧乐部</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[5세대 젠지들의 새로고침 | 노포기 #NOPOGY #shorts]]></title>
+        <id>https://www.youtube.com/watch?v=bR_8LT3BrfQ</id>
+        <link href="https://www.youtube.com/watch?v=bR_8LT3BrfQ"/>
+        <updated>2024-09-06T10:00:40.000Z</updated>
+        <author>
+            <name>KBS Kpop</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【完整版】200斤的她被前夫和閨蜜聯手背叛，她死裏逃生，1年後瘦身成功逆襲歸來成為娛樂圈的頂流天后，手撕渣男前夫和綠茶閨蜜！《打脸前夫，离婚后我成为顶流天后》]]></title>
+        <id>https://www.youtube.com/watch?v=YLxeCd5l6ps</id>
+        <link href="https://www.youtube.com/watch?v=YLxeCd5l6ps"/>
+        <updated>2024-09-06T10:00:36.000Z</updated>
+        <author>
+            <name>熊貓劇場</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【FULL】霸道總裁嫌棄的推開撲來的5歲萌娃，卻沒想到萌娃竟是他的親生兒子，後悔不已！#chinesedrama #都市 #愛情 #爽文 #逆襲 #短剧 #追妻火葬場]]></title>
+        <id>https://www.youtube.com/watch?v=RCqylPWDBSE</id>
+        <link href="https://www.youtube.com/watch?v=RCqylPWDBSE"/>
+        <updated>2024-09-06T10:00:33.000Z</updated>
+        <author>
+            <name>剧好甜</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【FULL】丈夫逼妻子离婚，谁料妻子掌握丈夫出轨小三证据，当即把丈夫赶出门！#中國電視劇 #movie #drama #爱情]]></title>
+        <id>https://www.youtube.com/watch?v=N4C24hync4w</id>
+        <link href="https://www.youtube.com/watch?v=N4C24hync4w"/>
+        <updated>2024-09-06T10:00:32.000Z</updated>
+        <author>
+            <name>甜剧拌饭</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ONEW(온유) - 매력 (beat drum) | [dingo live] | 딩고뮤직 | Dingo Music]]></title>
+        <id>https://www.youtube.com/watch?v=TVAbWj1mdxM</id>
+        <link href="https://www.youtube.com/watch?v=TVAbWj1mdxM"/>
+        <updated>2024-09-06T10:00:29.000Z</updated>
+        <author>
+            <name>딩고 뮤직 / dingo music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Weekend - DRIPPIN [뮤직뱅크/Music Bank] | KBS 240906 방송]]></title>
+        <id>https://www.youtube.com/watch?v=sRCFrNbpdOg</id>
+        <link href="https://www.youtube.com/watch?v=sRCFrNbpdOg"/>
+        <updated>2024-09-06T10:00:28.000Z</updated>
+        <author>
+            <name>KBS Kpop</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Wavy - YERIN #Wavy #YERIN #예린 #Shorts #MusicBank | KBS WORLD TV]]></title>
+        <id>https://www.youtube.com/watch?v=nyyrOzP9dCY</id>
+        <link href="https://www.youtube.com/watch?v=nyyrOzP9dCY"/>
+        <updated>2024-09-06T09:59:51.000Z</updated>
+        <author>
+            <name>KBS WORLD TV</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Melt Down - DAY6 #MeltDown #DAY6 #デイシックス #데이식스 #Shorts #MusicBank | KBS WORLD TV]]></title>
+        <id>https://www.youtube.com/watch?v=-CxG8lIyqe4</id>
+        <link href="https://www.youtube.com/watch?v=-CxG8lIyqe4"/>
+        <updated>2024-09-06T09:59:43.000Z</updated>
+        <author>
+            <name>KBS WORLD TV</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[See that? - NMIXX #Seethat? #NMIXX #エンミックス #엔믹스 #Shorts #MusicBank | KBS WORLD TV]]></title>
+        <id>https://www.youtube.com/watch?v=mpSzWTBcjUs</id>
+        <link href="https://www.youtube.com/watch?v=mpSzWTBcjUs"/>
+        <updated>2024-09-06T09:59:07.000Z</updated>
+        <author>
+            <name>KBS WORLD TV</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[O-HE - BANG YEDAM #O-HE #오해 #BANGYEDAM #방예담 #Shorts #MusicBank | KBS WORLD TV]]></title>
+        <id>https://www.youtube.com/watch?v=Nqt3-lUTVYA</id>
+        <link href="https://www.youtube.com/watch?v=Nqt3-lUTVYA"/>
+        <updated>2024-09-06T09:58:33.000Z</updated>
+        <author>
+            <name>KBS WORLD TV</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[별별별(See that?) - NMIXX(엔믹스) [뮤직뱅크/Music Bank] | KBS 240906 방송]]></title>
+        <id>https://www.youtube.com/watch?v=gLDlonUJWXU</id>
+        <link href="https://www.youtube.com/watch?v=gLDlonUJWXU"/>
+        <updated>2024-09-06T09:58:28.000Z</updated>
+        <author>
+            <name>KBS Kpop</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ATE THAT - YOUNG POSSE #ATETHAT #YOUNGPOSSE #ヤングパシ #영파씨 #Shorts #MusicBank | KBS WORLD TV]]></title>
+        <id>https://www.youtube.com/watch?v=zeGYSGAN7XQ</id>
+        <link href="https://www.youtube.com/watch?v=zeGYSGAN7XQ"/>
+        <updated>2024-09-06T09:58:08.000Z</updated>
+        <author>
+            <name>KBS WORLD TV</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[위치(WITCH) - xikers  [뮤직뱅크/Music Bank] | KBS 240906 방송]]></title>
+        <id>https://www.youtube.com/watch?v=QXuXaZOz064</id>
+        <link href="https://www.youtube.com/watch?v=QXuXaZOz064"/>
+        <updated>2024-09-06T09:57:28.000Z</updated>
+        <author>
+            <name>KBS Kpop</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[LOVE ATTACK - RESCENE #LOVEATTACK #RESCENE #リセンヌ #리센느 #Shorts #MusicBank | KBS WORLD TV]]></title>
+        <id>https://www.youtube.com/watch?v=ois9UrfYOKs</id>
+        <link href="https://www.youtube.com/watch?v=ois9UrfYOKs"/>
+        <updated>2024-09-06T09:57:27.000Z</updated>
+        <author>
+            <name>KBS WORLD TV</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[瞬间入戏]]></title>
+        <id>https://www.youtube.com/watch?v=DxL6Rrg_fJ8</id>
+        <link href="https://www.youtube.com/watch?v=DxL6Rrg_fJ8"/>
+        <updated>2024-09-06T09:56:24.000Z</updated>
+        <author>
+            <name>曹操大哥</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[不靠谱的爸爸]]></title>
+        <id>https://www.youtube.com/watch?v=1CGLvVvghWU</id>
+        <link href="https://www.youtube.com/watch?v=1CGLvVvghWU"/>
+        <updated>2024-09-06T09:55:25.000Z</updated>
+        <author>
+            <name>曹操大哥</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[MULTI SUB]【完整版】有两个天才宝贝，也是一种烦恼呢……#腹黑#甜宠 | 心动短剧社💓]]></title>
+        <id>https://www.youtube.com/watch?v=QcqRvhjm5gw</id>
+        <link href="https://www.youtube.com/watch?v=QcqRvhjm5gw"/>
+        <updated>2024-09-06T09:55:22.000Z</updated>
+        <author>
+            <name>心动短剧社Heartbeat</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[부모님 관람불가 - BOYNEXTDOOR [뮤직뱅크/Music Bank] | KBS 240906 방송]]></title>
+        <id>https://www.youtube.com/watch?v=HzlvtVpEiBA</id>
+        <link href="https://www.youtube.com/watch?v=HzlvtVpEiBA"/>
+        <updated>2024-09-06T09:54:48.000Z</updated>
+        <author>
+            <name>KBS Kpop</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Best 100 English Songs 🍇 Mood Chill Vibes English Chill Songs | New Tiktok Viral Songs With Lyrics]]></title>
+        <id>https://www.youtube.com/watch?v=wxxs6qwXJpc</id>
+        <link href="https://www.youtube.com/watch?v=wxxs6qwXJpc"/>
+        <updated>2024-09-06T09:53:03.000Z</updated>
+        <author>
+            <name>Dreamy Vibez</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[O-HE - 방예담 [뮤직뱅크/Music Bank] | KBS 240906 방송]]></title>
+        <id>https://www.youtube.com/watch?v=DSW2tr_Q5JY</id>
+        <link href="https://www.youtube.com/watch?v=DSW2tr_Q5JY"/>
+        <updated>2024-09-06T09:52:53.000Z</updated>
+        <author>
+            <name>KBS Kpop</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CRAZY - LE SSERAFIM ルセラフィム 르세라핌 [Music Bank] | KBS WORLD TV 240906]]></title>
+        <id>https://www.youtube.com/watch?v=mnNrBB3BxsE</id>
+        <link href="https://www.youtube.com/watch?v=mnNrBB3BxsE"/>
+        <updated>2024-09-06T09:35:21.000Z</updated>
+        <author>
+            <name>KBS WORLD TV</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[是不是很优雅?]]></title>
+        <id>https://www.youtube.com/watch?v=Sjz4RvAN1Vc</id>
+        <link href="https://www.youtube.com/watch?v=Sjz4RvAN1Vc"/>
+        <updated>2024-09-06T09:35:17.000Z</updated>
+        <author>
+            <name>曹操大哥</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sunfish - YOUNHA ユンナ 윤하 [Music Bank] | KBS WORLD TV 240906]]></title>
+        <id>https://www.youtube.com/watch?v=eFEqgp-aE4Q</id>
+        <link href="https://www.youtube.com/watch?v=eFEqgp-aE4Q"/>
+        <updated>2024-09-06T09:32:34.000Z</updated>
+        <author>
+            <name>KBS WORLD TV</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GOOD SO BAD - ZEROBASEONE ゼロベースワン 제베원 [Music Bank] | KBS WORLD TV 240906]]></title>
+        <id>https://www.youtube.com/watch?v=gDcsfdrNQtQ</id>
+        <link href="https://www.youtube.com/watch?v=gDcsfdrNQtQ"/>
+        <updated>2024-09-06T09:30:29.000Z</updated>
+        <author>
+            <name>KBS WORLD TV</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[오랜만에 기타를 든 아이유라니 귀하다..🥹 #아이유 #IU #IUTV #HEREH #IU_WORLD_TOUR]]></title>
+        <id>https://www.youtube.com/watch?v=puZDl-1_rR8</id>
+        <link href="https://www.youtube.com/watch?v=puZDl-1_rR8"/>
+        <updated>2024-09-06T09:30:20.000Z</updated>
+        <author>
+            <name>이지금 [IU Official]</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[东北人就是爱要面子]]></title>
+        <id>https://www.youtube.com/watch?v=AkMm2pqJoEs</id>
+        <link href="https://www.youtube.com/watch?v=AkMm2pqJoEs"/>
+        <updated>2024-09-06T09:26:42.000Z</updated>
+        <author>
+            <name>曹操大哥</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pineapple Slice - BAEKHYUN 백현 [Music Bank] | KBS WORLD TV 240906]]></title>
+        <id>https://www.youtube.com/watch?v=Fx4LWZLw8bg</id>
+        <link href="https://www.youtube.com/watch?v=Fx4LWZLw8bg"/>
+        <updated>2024-09-06T09:22:57.000Z</updated>
+        <author>
+            <name>KBS WORLD TV</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[《工業掘起：我爲科技扛大旗》第1~100集【高清完結合集】丨我現在已經是新能源汽車之父，但我還是不知道當年父親去世的原因！意外重生回到過去？這壹世我會守護好壹切！利用未來科技，重回世界巅峰！#嘟嘟剧场]]></title>
+        <id>https://www.youtube.com/watch?v=HDQnO-yt-Lc</id>
+        <link href="https://www.youtube.com/watch?v=HDQnO-yt-Lc"/>
+        <updated>2024-09-06T09:19:34.000Z</updated>
+        <author>
+            <name>嘟嘟剧场</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【完整版结局】渣爹要把她賣給60歲老頭換彩禮，沈星若一氣之下拉著陌生男人扯了證，卻沒想到對方竟是宋家掌權人宋寒嶼，商界紛傳他權勢滔天不近女色，怎料婚後每晚都被他纏著索吻！#熱播短劇#甜寵#先婚後愛]]></title>
+        <id>https://www.youtube.com/watch?v=VCn_w3EdSjI</id>
+        <link href="https://www.youtube.com/watch?v=VCn_w3EdSjI"/>
+        <updated>2024-09-06T09:17:45.000Z</updated>
+        <author>
+            <name>劇好追</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Classified - OH MY GIRL オーマイガール 오마이걸 [Music Bank] | KBS WORLD TV 240906]]></title>
         <id>https://www.youtube.com/watch?v=D0ZeSoJ1Qz0</id>
@@ -13,6 +463,15 @@
         <updated>2024-09-06T09:17:20.000Z</updated>
         <author>
             <name>KBS WORLD TV</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[아이유가 알려주는 빨리 씻으러 가는 꿀팁! #아이유 #IU #IUTV #HEREH #IU_WORLD_TOUR]]></title>
+        <id>https://www.youtube.com/watch?v=HeNl2DFqZME</id>
+        <link href="https://www.youtube.com/watch?v=HeNl2DFqZME"/>
+        <updated>2024-09-06T09:15:01.000Z</updated>
+        <author>
+            <name>이지금 [IU Official]</name>
         </author>
     </entry>
     <entry>
@@ -544,6 +1003,15 @@
         <updated>2024-09-06T07:16:00.000Z</updated>
         <author>
             <name>米豆芽</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Chill Vibes 24/7: Electronic Mix for Calm and Focus]]></title>
+        <id>https://www.youtube.com/watch?v=Cvx6zDONeIU</id>
+        <link href="https://www.youtube.com/watch?v=Cvx6zDONeIU"/>
+        <updated>2024-09-06T07:13:29.000Z</updated>
+        <author>
+            <name>Chill Music Lab</name>
         </author>
     </entry>
     <entry>
@@ -2479,6 +2947,15 @@
         <updated>2024-09-05T09:46:02.000Z</updated>
         <author>
             <name>曹操大哥</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hello September🍁Chill Morning Songs To Soothe Your Soul ~ Relaxing R&B Soul Mix - Best Soul/RnB]]></title>
+        <id>https://www.youtube.com/watch?v=HjE5AZmjvzE</id>
+        <link href="https://www.youtube.com/watch?v=HjE5AZmjvzE"/>
+        <updated>2024-09-05T09:44:51.000Z</updated>
+        <author>
+            <name>1 Billion view</name>
         </author>
     </entry>
     <entry>
