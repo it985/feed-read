@@ -1,15 +1,18 @@
 name: Build site on schedule or main branch update
 
 on:
-  push:
-    branches:
-      - master
+  # push:
+  #   branches:
+  #     - master
   schedule:
     # Adjust refresh schedule here. By default, it runs once per day.
     # Syntax reference: https://docs.github.com/en/actions/reference/events-that-trigger-workflows#schedule
     # Recommended tool: https://crontab.guru/
     - cron: '0 */1 * * *'
-
+  workflow_dispatch:
+    inputs:
+      tags:
+        description: 'Description Tag'  
 jobs:
   build:
     runs-on: ubuntu-latest
