@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://it985.github.io/feed-read/index.html</id>
     <title>YouTube</title>
-    <updated>2024-09-07T21:17:14.206Z</updated>
+    <updated>2024-09-07T22:15:51.501Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://it985.github.io/feed-read/index.html"/>
     <link rel="self" href="https://it985.github.io/feed-read/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[My dog loves this song I guess]]></title>
+        <id>https://www.youtube.com/watch?v=oKLJWVENBZ8</id>
+        <link href="https://www.youtube.com/watch?v=oKLJWVENBZ8"/>
+        <updated>2024-09-07T22:00:30.000Z</updated>
+        <author>
+            <name>Iris K</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[『2024最新版』 最近流行りの曲40選👑新曲 2024 JPOPメドレー (最新曲 2024)👑2024ヒット曲メドレー👑YOASOBI, Ado, スピッツ, 米津玄師, 優里]]></title>
+        <id>https://www.youtube.com/watch?v=01rbs17iaGg</id>
+        <link href="https://www.youtube.com/watch?v=01rbs17iaGg"/>
+        <updated>2024-09-07T22:00:02.000Z</updated>
+        <author>
+            <name>Top Jpop</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Harutya 春茶 🍃🌿ベストカバーソング集 2024 - ベスト日本の歌 2024🍃🌿]]></title>
         <id>https://www.youtube.com/watch?v=7y5gfI4iQ6U</id>
