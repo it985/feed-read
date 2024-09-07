@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://it985.github.io/feed-read/index.html</id>
     <title>YouTube</title>
-    <updated>2024-09-07T20:17:18.340Z</updated>
+    <updated>2024-09-07T21:17:14.206Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://it985.github.io/feed-read/index.html"/>
     <link rel="self" href="https://it985.github.io/feed-read/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Harutya 春茶 🍃🌿ベストカバーソング集 2024 - ベスト日本の歌 2024🍃🌿]]></title>
+        <id>https://www.youtube.com/watch?v=7y5gfI4iQ6U</id>
+        <link href="https://www.youtube.com/watch?v=7y5gfI4iQ6U"/>
+        <updated>2024-09-07T21:00:04.000Z</updated>
+        <author>
+            <name>1 Hour Japan Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Love Me, Please Love Me - Michel Polnareff]]></title>
+        <id>https://www.youtube.com/watch?v=hfMZU6l2z_g</id>
+        <link href="https://www.youtube.com/watch?v=hfMZU6l2z_g"/>
+        <updated>2024-09-07T20:37:00.000Z</updated>
+        <author>
+            <name>Iris K</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[240906 ' 부스 둘러보는' 홍지은(홍딩굴) 직캠 By.JJaGa #홍딩굴 #홍지은 #오토살롱 #2024오토살롱]]></title>
         <id>https://www.youtube.com/watch?v=ilFYfBnke60</id>
