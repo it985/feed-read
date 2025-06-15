@@ -2,6 +2,14 @@
 cacheUrl: https://it985.github.io/feed-read/cache.json
 # `sources`: RSS 订阅源的数组。（必需）
 sources:
+- href: https://www.youtube.com/feeds/videos.xml?channel_id=UCvoxcTa8lB0OSWf_WxKmwew
+- href: https://www.youtube.com/feeds/videos.xml?channel_id=UCruH0hGnbKmRmia9TKMGh2w
+- href: https://www.youtube.com/feeds/videos.xml?channel_id=UCcqdoFXV0ejwZYFeeCFAvvA
+- href: https://www.youtube.com/feeds/videos.xml?channel_id=UC-g_3PZzR5KrBThx8cfbp6Q
+- href: https://www.youtube.com/feeds/videos.xml?channel_id=UCu7M9XRDN-dVd21LHCYm2yQ
+- href: https://www.youtube.com/feeds/videos.xml?channel_id=UCcwD5Szdd9qvAY6hDD9g21A
+- href: https://www.youtube.com/feeds/videos.xml?channel_id=UCRl9htFeo5eyIYIBEgJiwkw
+- href: https://www.youtube.com/feeds/videos.xml?channel_id=UCt7NWbJyv00EGV4UupLT-IA
 - href: https://www.youtube.com/feeds/videos.xml?channel_id=UCk25MkqugqhPY6YtxelqEGg
 - href: https://www.youtube.com/feeds/videos.xml?channel_id=UCzg-okYVOv2SGRBeCTy-psg
 - href: https://www.youtube.com/feeds/videos.xml?channel_id=UCoC47do520os_4DBMEFGg4A
